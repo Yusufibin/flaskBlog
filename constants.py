@@ -133,8 +133,7 @@ DEFAULT_ADMIN_PASSWORD = "admin"  # (str)
 DEFAULT_ADMIN_POINT = 0  # (int)
 
 # Default admin profile picture URL
-DEFAULT_ADMIN_PROFILE_PICTURE = f"https://api.dicebear.com/7.x/identicon/svg?seed={DEFAULT_ADMIN_USERNAME}&radius=10"  # (str)
-
+DEFAULT_ADMIN_PROFILE_PICTURE = f"https://api.dicebear.com/9.x/adventurer-neutral/svg?seed={DEFAULT_ADMIN_USERNAME}&radius=10"  # (str)
 
 ### RECAPTCHA SETTINGS ###
 
