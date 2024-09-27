@@ -121,7 +121,7 @@ SMTP_PASSWORD = "lsooxsmnsfnhnixy"  # (str)
 DEFAULT_ADMIN = True  # (bool)
 
 # Default admin username
-DEFAULT_ADMIN_USERNAME = "admin"  # (str)
+DEFAULT_ADMIN_USERNAME = "Youssouf"  # (str)
 
 # Default admin email address
 DEFAULT_ADMIN_EMAIL = "admin@flaskblog.com"  # (str)
